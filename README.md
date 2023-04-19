@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning basic of this
 - 💞️ I’m looking to collaborate on Shell
 - 📫 How to reach me 0811153xxxx
-- TEST
+- 📫 Emailed me also on yogi.sxxx@gmail.com
+#hotfix
+- TEST 123
 
 <!---
 yogidotse/yogidotse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
